@@ -4,6 +4,11 @@
        "name":"Angular",
        "cost":"23000",
        "id":1
+     },
+ {
+       "name":"php",
+       "cost":"53000",
+       "id":2
      }
    ]
  }
